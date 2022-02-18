@@ -4,7 +4,7 @@
 
 ### The following was the reference layout in the exercise:
 
-![Reference photo](https://raw.githubusercontent.com/becodeorg/BXL-Johnson-7/main/2.The-Hill/Frontend-101/Frontend-JS-101/Projects/1.Collection/collection_desktop.png?token=GHSAT0AAAAAABQHBHLYWBUTSRHOVY5WX55OYQOBM7A)
+![Reference photo](https://raw.githubusercontent.com/becodeorg/BXL-Johnson-7/main/2.The-Hill/Frontend-101/Frontend-JS-101/Projects/1.Collection/collection_desktop.png?token=GHSAT0AAAAAABQHBHLYQZ7FY3NJUTKISOZ2YQY7Q4A)
 
 ### In the end, after creating it in the style above, I took some creative liberties:
 
