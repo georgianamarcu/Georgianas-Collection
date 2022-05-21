@@ -22,15 +22,19 @@ to create a collection of items.
 
 ## :thinking: What was the result?
 
-Desktop version:
+### Desktop version:
+
+On hover, an overlay with the details and Youtube trailer icon would appear
 
 ![Webpage screenshot](./Collection-screenshot1.png?raw=true "Collection screenshot")
 
 ![Webpage screenshot2](./Collection-screenshot2.png?raw=true "Collection screenshot")
 
+Clicking on the checkbox filtered the animations by genre
+
 ![Webpage screenshot3](./Collection-screenshot3.png?raw=true "Collection screenshot")
 
-Mobile version:
+### Responsive mobile:
 
 ![Webpage screenshot4](./Collection-screenshot4.png?raw=true "Collection screenshot")
 
