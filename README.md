@@ -1,15 +1,37 @@
-# Simple web page with my favourite 10 animation movies
+# Simple web page with favorite animation movies
+
+This page was created as an exercise in the phase 2 of the BeCode formation, The Hill.
 
 ![Totoro](https://media.giphy.com/media/rR2AWZ3ip77r2/giphy.gif)
 
-### The following was the reference layout in the exercise:
+## :sparkles: What was the challenge?
 
-![Reference photo](https://raw.githubusercontent.com/becodeorg/BXL-Johnson-7/main/2.The-Hill/Frontend-101/Frontend-JS-101/Projects/1.Collection/collection_desktop.png?token=GHSAT0AAAAAABQHBHLYQZ7FY3NJUTKISOZ2YQY7Q4A)
+Summarize our current knowledge of :
 
-### In the end, after creating it in the style above, I took some creative liberties:
+- HTML and CSS
+- Responsive design
+- Javascript Basics
+- The DOM
 
-- An overlay was created with a position absolute (it is a hated one, but it was necessary for design purposes), which would come up on hover 
+to create a collection of items. 
 
-[My final project screenshot](https://i.postimg.cc/BvNBGDFL/Screenshot-2022-02-10-at-09-43-15.png)
+## :grey_question: What was created?
+
+- A JS variable that stored the data for the cards
+- A function to generate the cards, to display, hide and filter them by genre 
+
+## :thinking: What was the result?
+
+Desktop version:
+
+![Webpage screenshot](./Collection-screenshot1.png?raw=true "Collection screenshot")
+
+![Webpage screenshot2](./Collection-screenshot2.png?raw=true "Collection screenshot")
+
+![Webpage screenshot3](./Collection-screenshot3.png?raw=true "Collection screenshot")
+
+Mobile version:
+
+![Webpage screenshot4](./Collection-screenshot4.png?raw=true "Collection screenshot")
 
 
